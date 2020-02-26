@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class SciCalculator {
 
+// We are learning functions of GIT
     public static void main(String[] args) {
 
         /*
